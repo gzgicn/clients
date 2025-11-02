@@ -1,5 +1,69 @@
 {
-  "timestamp": "2025-11-02 11:00:59",
-  "error": "Message: \nStacktrace:\n\tGetHandleVerifier [0x00007FF640275335+78597]\n\tGetHandleVerifier [0x00007FF640275390+78688]\n\t(No symbol) [0x00007FF6400291AA]\n\t(No symbol) [0x00007FF64007F149]\n\t(No symbol) [0x00007FF64007F3FC]\n\t(No symbol) [0x00007FF6400D2467]\n\t(No symbol) [0x00007FF6400A712F]\n\t(No symbol) [0x00007FF6400CF2BB]\n\t(No symbol) [0x00007FF6400A6EC3]\n\t(No symbol) [0x00007FF6400703F8]\n\t(No symbol) [0x00007FF640071163]\n\tGetHandleVerifier [0x00007FF64051EEED+2870973]\n\tGetHandleVerifier [0x00007FF640519698+2848360]\n\tGetHandleVerifier [0x00007FF640536973+2967875]\n\tGetHandleVerifier [0x00007FF64029017A+188746]\n\tGetHandleVerifier [0x00007FF64029845F+222255]\n\tGetHandleVerifier [0x00007FF64027D2B4+111236]\n\tGetHandleVerifier [0x00007FF64027D462+111666]\n\tGetHandleVerifier [0x00007FF640263589+5465]\n\tBaseThreadInitThunk [0x00007FFD29A326AD+29]\n\tRtlUserThreadStart [0x00007FFD2B6AA9F8+40]\n",
-  "tunnels": []
+  "timestamp": "2025-11-02 11:30:35",
+  "tunnels": [
+    {
+      "id": "1",
+      "name": "tunnel-5173",
+      "public_url": "http://285b3db0.r7.cpolar.top",
+      "local_address": "http://localhost:5173",
+      "protocol": "http",
+      "crdate": "2025年11月02日 03时02分13秒"
+    },
+    {
+      "id": "2",
+      "name": "tunnel-5173",
+      "public_url": "https://285b3db0.r7.cpolar.top",
+      "local_address": "http://localhost:5173",
+      "protocol": "https",
+      "crdate": "2025年11月02日 03时02分13秒"
+    },
+    {
+      "id": "3",
+      "name": "tunnel-8080",
+      "public_url": "http://95cc266.r7.cpolar.top",
+      "local_address": "http://localhost:8080",
+      "protocol": "http",
+      "crdate": "2025年11月02日 03时02分14秒"
+    },
+    {
+      "id": "4",
+      "name": "tunnel-8080",
+      "public_url": "https://95cc266.r7.cpolar.top",
+      "local_address": "http://localhost:8080",
+      "protocol": "https",
+      "crdate": "2025年11月02日 03时02分14秒"
+    },
+    {
+      "id": "5",
+      "name": "tunnel-ai-8088",
+      "public_url": "http://5f84f274.r7.cpolar.top",
+      "local_address": "http://localhost:8088",
+      "protocol": "http",
+      "crdate": "2025年11月02日 03时02分09秒"
+    },
+    {
+      "id": "6",
+      "name": "tunnel-ai-8088",
+      "public_url": "https://5f84f274.r7.cpolar.top",
+      "local_address": "http://localhost:8088",
+      "protocol": "https",
+      "crdate": "2025年11月02日 03时02分09秒"
+    },
+    {
+      "id": "7",
+      "name": "tunnel-n8n-5678",
+      "public_url": "http://21171898.r7.cpolar.top",
+      "local_address": "http://localhost:5678",
+      "protocol": "http",
+      "crdate": "2025年11月02日 03时02分12秒"
+    },
+    {
+      "id": "8",
+      "name": "tunnel-n8n-5678",
+      "public_url": "https://21171898.r7.cpolar.top",
+      "local_address": "http://localhost:5678",
+      "protocol": "https",
+      "crdate": "2025年11月02日 03时02分12秒"
+    }
+  ]
 }
