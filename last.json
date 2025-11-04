@@ -232,8 +232,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/2025.11/11.04Clasholx.yaml",
-      "https://mm.mibei77.com/2025.11/11.0464badfv.txt"
+      "https://mm.mibei77.com/2025.11/11.0464badfv.txt",
+      "https://mm.mibei77.com/2025.11/11.04Clasholx.yaml"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/2025.11/11.0464badfv.txt"
@@ -250,5 +250,5 @@
       "complete_nodes_count": 22
     }
   },
-  "crawl_time": "2025-11-04 18:30:45"
+  "crawl_time": "2025-11-04 19:00:50"
 }
