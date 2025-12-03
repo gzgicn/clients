@@ -32,11 +32,7 @@
 
 
   "parses": [
-    {
-      "name": "xmflv",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
+   
 
     {
       "name": "Web聚合",
@@ -48,7 +44,11 @@
       "type": 3,
       "url": "Demo"
     },
-   
+    {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
     {
       "name": "freejson",
       "type": 0,
@@ -481,3 +481,4 @@
 	]
 
 }
+
