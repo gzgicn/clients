@@ -1,5 +1,5 @@
 {
-	"spider": "https://clients.gzgi.cn/custom_spider_20251130.jar;md5;e6b4a3061dd188c1f3ae81791fd1f621",
+	"spider": "http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 	"lives": [
 
@@ -24,7 +24,19 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
+			"playerType": 2,
 			"ext": ""
+		},
+		{
+		"key": "360_spider",
+		"name": "360┃解析",
+		"api": "csp_SP360",
+		"type": 3,
+		"filterable": 1,
+		"quickSearch": 1,
+		"searchable": 1,
+		"playerType": 2,
+		"ext": ""
 		}
 	],
 
@@ -482,5 +494,6 @@
 	]
 
 }
+
 
 
