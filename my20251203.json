@@ -51,7 +51,7 @@
 	//{"key": "比特","name": "🍄┃Btt┃秒播","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1},
 	//{"key": "Auete","name": "🏝┃Aue┃无广","type": 3,"api": "csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/"},
 	{"key": "新6V","name": "🧲┃新6V┃磁力","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.xb6v.com/"},
-	{"key":"csp_nkvlog","name":"💢┃耐看┃电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/nkvlog.json"},
+	//{"key":"csp_nkvlog","name":"💢┃耐看┃电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/nkvlog.json"},
 	//{"key":"csp_Free","name":"💰️┃Free┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/Free影视.json"},
 	//{"key": "csp_KmeiJu","name": "🌎┃美剧┃影视","type": 3,"api": "csp_KmeiJu","playerType": 2,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/Panda.jar"},
 	//{"key": "csp_SuBaiBai","name": "🏳️┃素白┃影视","type": 3,"api": "csp_SuBaiBai","jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/Panda.jar"},
@@ -71,10 +71,10 @@
 	{"key": "荐片","name": "🎬┃荐片┃影视","api": "csp_Jianpian","type": 3,"playerType": "2","ext": "http://api2.rinhome.com","jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/Panda.jar"},
 	{"key": "csp_Ikanbot","name": "💋┃爱看┃Bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "[排序:lz线路,kuaik]","jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/XYQH.jar"},
 	{"key":"csp_hanjulao","name":"🏵┃韩剧┃高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/hanjulao.json"},
-	{"key": "XYQH_JOJO","name": "🍁┃久久┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/XYQH.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/xyq/jojo.json"},
+	//{"key": "XYQH_JOJO","name": "🍁┃久久┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/XYQH.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/xyq/jojo.json"},
 	{"key": "csp_XYQHiker_VSYY","name": "🎦┃VS┃影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/XYQH.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/xyq/VS影院.json"},
-	{"key": "csp_XYQ素白白","name": "⛈┃素白白┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/XYQH.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/xyq/素白白.json"},
-	{"key": "csp_XYQ电影牛","name": "🍖┃电影牛┃影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/XYQH.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/xyq/电影牛.json"},
+	//{"key": "csp_XYQ素白白","name": "⛈┃素白白┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/XYQH.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/xyq/素白白.json"},
+	//{"key": "csp_XYQ电影牛","name": "🍖┃电影牛┃影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/XYQH.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/xyq/电影牛.json"},
 
 
 	{
@@ -284,8 +284,8 @@
 	{"key": "csp_Bili","name": "🅱️┃哔哩┃合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/XBPQ.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/bili.json"},
 	{"key": "csp_Bili_dashan","name": "💋┃搭讪┃教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/搭讪.json"},
 	{"key": "csp_Bili__dapei","name": "💃┃搭配┃教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/搭配.json"},
-	{"key": "js_B站精简","name": "🅱️┃哔哩┃精简","type": 3,"api": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/B站精简.js"},
-	{"key": "csp_Bili_meishi","name": "🅱️┃美食┃合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/美食合集.json"},
+	//{"key": "js_B站精简","name": "🅱️┃哔哩┃精简","type": 3,"api": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/B站精简.js"},
+	//{"key": "csp_Bili_meishi","name": "🅱️┃美食┃合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/美食合集.json"},
 	{"key": "csp_Bili_youer","name": "🅱️┃幼儿┃教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/幼儿.json"},
 	{"key": "csp_Bili_xiaoxue","name": "🅱️┃小学┃教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/小学.json"},
 	{"key": "csp_Bili_czxx","name": "🅱️┃初中┃教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/初中.json"},
@@ -298,10 +298,10 @@
 	{"key": "csp_Bili_Meinvw","name": "🅱️┃美女┃舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/美女.json"},
 	{"key": "csp_Bili_yanchh","name": "🅱️┃歌手┃合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/歌手.json"},
 	{"key": "csp_Bili_Nvtuan","name": "🅱️┃女团┃热舞","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/女团.json"},
-	{"key": "MV_vod","name": "🎹┃MTV┃合集","type": 1,"api": "https://mv.wogg.link/mv/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
+	//{"key": "MV_vod","name": "🎹┃MTV┃合集","type": 1,"api": "https://mv.wogg.link/mv/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "csp_Bili_MTV","name": "🅱️┃歌曲┃演唱","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/歌曲.json"},
 	{"key": "csp_Bili_Yinl2","name": "🅱️┃音悦┃合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/音悦.json"},
-	{"key": "js_哔哩直播","name": "🅱️┃哔哩┃直播","type": 3,"api": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/哔哩直播.js"},
+	//{"key": "js_哔哩直播","name": "🅱️┃哔哩┃直播","type": 3,"api": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/哔哩直播.js"},
 	{"key": "短视频","name": "📱┃网红┃美女","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/HCCX.jar","ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/hccx/短视频聚合.json"}
   ],
   "parses": [
@@ -359,5 +359,6 @@
   ]
 
 }
+
 
 
