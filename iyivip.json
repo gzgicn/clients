@@ -51,17 +51,17 @@
       "type": 3,
       "url": "Web"
     },
-	   {
-      "name": "xmflv",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
+	  
     {
       "name": "Json聚合",
       "type": 3,
       "url": "Demo"
     },
-   
+    {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
     {
       "name": "freejson",
       "type": 0,
@@ -494,6 +494,7 @@
 	]
 
 }
+
 
 
 
