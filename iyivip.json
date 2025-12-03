@@ -24,7 +24,6 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"playerType": 2,
 			"ext": ""
 		}
 	],
@@ -480,4 +479,5 @@
 	"ads": [
 		"43.248.128.138"
 	]
+
 }
