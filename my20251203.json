@@ -172,15 +172,15 @@
 	//{"key": "js_bzys","name":"🌋┃B站┃影视","type": 3,"api": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/bzys.js"},
 	//{"key": "js_555","name": "🌟┃三五┃影视","type": 3,"api": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/555.js"},
 	
-	{"key":"dr_iqiyi","name":"🥝┃爱奇异(官)","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/iqiyi.js"},
-	{"key":"dr_youku","name":"🥔┃优酷(官)","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/youku.js"},
-	{"key":"dr_qq","name":"🐧┃腾讯(官)","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/qq.js"},
-	{"key":"dr_mgtv","name":"🥭┃芒果(官)","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/mgtv.js"},
-	{"key":"dr_搜狗","name":"🚛┃搜狗(官)","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/caigou.js"},
-	{"key":"dr_360影视","name":"📺┃360(官) ","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/360.js"},
-	{"key":"dr_奇珍异兽","name":"🦍┃奇珍┃异兽","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/奇珍异兽.js"},
-	{"key":"dr_腾云驾雾","name":"☁️┃腾云┃驾雾","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/腾云驾雾.js"},
-	{"key":"dr_百忙无果","name":"🍋┃百忙┃无果","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/百忙无果.js"},
+	//{"key":"dr_iqiyi","name":"🥝┃爱奇异(官)","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/iqiyi.js"},
+	//{"key":"dr_youku","name":"🥔┃优酷(官)","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/youku.js"},
+	//{"key":"dr_qq","name":"🐧┃腾讯(官)","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/qq.js"},
+	//{"key":"dr_mgtv","name":"🥭┃芒果(官)","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/mgtv.js"},
+	//{"key":"dr_搜狗","name":"🚛┃搜狗(官)","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/caigou.js"},
+	//{"key":"dr_360影视","name":"📺┃360(官) ","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/360.js"},
+	//{"key":"dr_奇珍异兽","name":"🦍┃奇珍┃异兽","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/奇珍异兽.js"},
+	//{"key":"dr_腾云驾雾","name":"☁️┃腾云┃驾雾","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/腾云驾雾.js"},
+	//{"key":"dr_百忙无果","name":"🍋┃百忙┃无果","type":3,"api":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/drpy2.min.js","ext":"http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/js/百忙无果.js"},
 	{"key": "蚂蚁","name": "🐜1080P┃蚂蚁","type": 3,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/c.jar","api": "csp_AppYsV2","ext": "http://122.228.84.103:5822/api.php/app/","searchable": 1,"quickSearch": 1,"changeable": 0},
 	{"key": "即可","name": "👋1080P┃即刻","type": 3,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/c.jar","api": "csp_XBPQ","ext": {"嗅探词": ".m3u8","分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#剧集$2#动漫$4#综艺$4","搜索模式": "0"}},
 	{"key": "csp_赞赞","name": "👌┃赞赞┃切片","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "http://1b8685e0.r7.cpolar.top/mirror/liucn/libs/jar/c.jar","ext": "http://111.230.51.151:2323/api.php/app/"},
@@ -359,3 +359,4 @@
   ]
 
 }
+
