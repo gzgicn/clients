@@ -35,18 +35,7 @@
 	  "api": "csp_MYIQIYI",
 	  "searchable": 1,
 	  "quickSearch": 1,
-	  "filterable": 1,
-	  "changeable": 0,
-	  "timeout": 15,
-	  "ext": {
-	    "baseUrl": "https://www.iqiyi.com/",
-	    "parseMode": "1",
-	    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-	    "headers": {
-	      "Referer": "https://www.iqiyi.com/",
-	      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-	    }
-	  }
+	  "filterable": 1
 	},
 
 	{
@@ -392,5 +381,6 @@
   "lives": [
 	{"name": "SAO","type": 0,"url": "http://38a34cbe.r7.cpolar.top/mirror/liucn/lives/lives.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.cn/tv/{name}.png"}
   ]
+
 
 }
