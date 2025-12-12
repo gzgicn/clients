@@ -1,5 +1,5 @@
 {
-  "spider": "https://clients.gzgi.cn/custom_spider.jar;md5;6347f592ef0c32462a9130bd8ca9ee26",
+  "spider": "https://clients.gzgi.cn/custom_spider.jar;md5;c32d2261ec62fe63746fc61e4f453c0d",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
    "warningText": "资源来自网络，所有内容仅供学习使用。",
    "sites": [
@@ -43,6 +43,16 @@
 	      "name": "MGTV",
 	      "type": 3,
 	      "api": "csp_MGTV",
+	      "searchable": 1,
+	      "quickSearch": 1,
+	      "filterable": 1
+	},
+
+	{
+	      "key": "FF",
+	      "name": "FF",
+	      "type": 3,
+	      "api": "csp_FFSpider",
 	      "searchable": 1,
 	      "quickSearch": 1,
 	      "filterable": 1
