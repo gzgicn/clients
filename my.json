@@ -1,5 +1,5 @@
 {
-  "spider": "https://clients.gzgi.cn/custom_spider_2025120701.jar;md5;8cfc87411f2f0d65404ff66a6a0a3311",
+  "spider": "https://clients.gzgi.cn/custom_spider.jar;md5;c32d2261ec62fe63746fc61e4f453c0d",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
    "warningText": "资源来自网络，所有内容仅供学习使用。",
    "sites": [
@@ -32,21 +32,30 @@
 	  "key": "IQIYI",
 	  "name": "爱奇艺(IQIYI)",
 	  "type": 3,
-	  "api": "csp_MYIQIYI",
+	  "api": "csp_MYIQIYI2",
 	  "searchable": 1,
 	  "quickSearch": 1,
-	  "filterable": 1,
-	  "changeable": 0,
-	  "timeout": 15,
-	  "ext": {
-	    "baseUrl": "https://www.iqiyi.com/",
-	    "parseMode": "1",
-	    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-	    "headers": {
-	      "Referer": "https://www.iqiyi.com/",
-	      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-	    }
-	  }
+	  "filterable": 1	
+	},
+
+	{
+	      "key": "MGTV",
+	      "name": "MGTV",
+	      "type": 3,
+	      "api": "csp_MGTV",
+	      "searchable": 1,
+	      "quickSearch": 1,
+	      "filterable": 1
+	},
+
+	{
+	      "key": "FF",
+	      "name": "FF",
+	      "type": 3,
+	      "api": "csp_FFSpider",
+	      "searchable": 1,
+	      "quickSearch": 1,
+	      "filterable": 1
 	},
 
 
