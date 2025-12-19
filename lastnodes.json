@@ -250,8 +250,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/2025.12/12.18Clashikd.yaml",
-      "https://mm.mibei77.com/2025.12/12.1864baftr.txt"
+      "https://mm.mibei77.com/2025.12/12.1864baftr.txt",
+      "https://mm.mibei77.com/2025.12/12.18Clashikd.yaml"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/2025.12/12.1864baftr.txt"
@@ -268,5 +268,5 @@
       "complete_nodes_count": 67
     }
   },
-  "crawl_time": "2025-12-19 08:30:34"
+  "crawl_time": "2025-12-19 09:30:36"
 }
