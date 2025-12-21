@@ -424,8 +424,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/2025.12/12.2064bagrd.txt",
-      "https://mm.mibei77.com/2025.12/12.20Clashpdc.yaml"
+      "https://mm.mibei77.com/2025.12/12.20Clashpdc.yaml",
+      "https://mm.mibei77.com/2025.12/12.2064bagrd.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/2025.12/12.2064bagrd.txt"
@@ -442,5 +442,5 @@
       "complete_nodes_count": 56
     }
   },
-  "crawl_time": "2025-12-21 08:30:42"
+  "crawl_time": "2025-12-21 09:00:36"
 }
