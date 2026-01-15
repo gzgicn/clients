@@ -1,5 +1,69 @@
 {
-  "timestamp": "2026-01-15 23:30:16",
-  "error": "Message: invalid session id: session deleted as the browser has closed the connection\nfrom disconnected: not connected to DevTools\n  (Session info: chrome=135.0.7049.84)\nStacktrace:\n\tGetHandleVerifier [0x00007FF6C76D5335+78597]\n\tGetHandleVerifier [0x00007FF6C76D5390+78688]\n\t(No symbol) [0x00007FF6C74891AA]\n\t(No symbol) [0x00007FF6C7474EF5]\n\t(No symbol) [0x00007FF6C7499F04]\n\t(No symbol) [0x00007FF6C750ED0F]\n\t(No symbol) [0x00007FF6C752EBB2]\n\t(No symbol) [0x00007FF6C7506EC3]\n\t(No symbol) [0x00007FF6C74D03F8]\n\t(No symbol) [0x00007FF6C74D1163]\n\tGetHandleVerifier [0x00007FF6C797EEED+2870973]\n\tGetHandleVerifier [0x00007FF6C7979698+2848360]\n\tGetHandleVerifier [0x00007FF6C7996973+2967875]\n\tGetHandleVerifier [0x00007FF6C76F017A+188746]\n\tGetHandleVerifier [0x00007FF6C76F845F+222255]\n\tGetHandleVerifier [0x00007FF6C76DD2B4+111236]\n\tGetHandleVerifier [0x00007FF6C76DD462+111666]\n\tGetHandleVerifier [0x00007FF6C76C3589+5465]\n\tBaseThreadInitThunk [0x00007FFB22D32774+20]\n\tRtlUserThreadStart [0x00007FFB24910D51+33]\n",
-  "tunnels": []
+  "timestamp": "2026-01-16 02:00:18",
+  "tunnels": [
+    {
+      "id": "1",
+      "name": "tunnel-5173",
+      "public_url": "http://709563df.r7.cpolar.top",
+      "local_address": "http://localhost:5173",
+      "protocol": "http",
+      "crdate": "2026年01月16日 01时04分42秒"
+    },
+    {
+      "id": "2",
+      "name": "tunnel-5173",
+      "public_url": "https://709563df.r7.cpolar.top",
+      "local_address": "http://localhost:5173",
+      "protocol": "https",
+      "crdate": "2026年01月16日 01时04分42秒"
+    },
+    {
+      "id": "3",
+      "name": "tunnel-8080",
+      "public_url": "http://74ecbc66.r7.cpolar.top",
+      "local_address": "http://localhost:8080",
+      "protocol": "http",
+      "crdate": "2026年01月16日 01时04分44秒"
+    },
+    {
+      "id": "4",
+      "name": "tunnel-8080",
+      "public_url": "https://74ecbc66.r7.cpolar.top",
+      "local_address": "http://localhost:8080",
+      "protocol": "https",
+      "crdate": "2026年01月16日 01时04分44秒"
+    },
+    {
+      "id": "5",
+      "name": "tunnel-ai-8088",
+      "public_url": "http://6c31469c.r7.cpolar.top",
+      "local_address": "http://localhost:8088",
+      "protocol": "http",
+      "crdate": "2026年01月16日 01时04分39秒"
+    },
+    {
+      "id": "6",
+      "name": "tunnel-ai-8088",
+      "public_url": "https://6c31469c.r7.cpolar.top",
+      "local_address": "http://localhost:8088",
+      "protocol": "https",
+      "crdate": "2026年01月16日 01时04分39秒"
+    },
+    {
+      "id": "7",
+      "name": "tunnel-n8n-5678",
+      "public_url": "http://583a44de.r7.cpolar.top",
+      "local_address": "http://localhost:5678",
+      "protocol": "http",
+      "crdate": "2026年01月16日 01时04分40秒"
+    },
+    {
+      "id": "8",
+      "name": "tunnel-n8n-5678",
+      "public_url": "https://583a44de.r7.cpolar.top",
+      "local_address": "http://localhost:5678",
+      "protocol": "https",
+      "crdate": "2026年01月16日 01时04分40秒"
+    }
+  ]
 }
