@@ -406,8 +406,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202601/01.17Clasholr.yaml",
-      "https://mm.mibei77.com/202601/01.1764bafrq.txt"
+      "https://mm.mibei77.com/202601/01.1764bafrq.txt",
+      "https://mm.mibei77.com/202601/01.17Clasholr.yaml"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202601/01.1764bafrq.txt"
@@ -424,5 +424,5 @@
       "complete_nodes_count": 36
     }
   },
-  "crawl_time": "2026-01-17 16:00:28"
+  "crawl_time": "2026-01-17 18:00:30"
 }
