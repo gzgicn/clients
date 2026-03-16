@@ -516,8 +516,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202603/03.16Clashlvd.yaml",
-      "https://mm.mibei77.com/202603/03.1664bacfg.txt"
+      "https://mm.mibei77.com/202603/03.1664bacfg.txt",
+      "https://mm.mibei77.com/202603/03.16Clashlvd.yaml"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202603/03.1664bacfg.txt"
@@ -534,5 +534,5 @@
       "complete_nodes_count": 98
     }
   },
-  "crawl_time": "2026-03-16 14:06:26"
+  "crawl_time": "2026-03-16 18:06:24"
 }
