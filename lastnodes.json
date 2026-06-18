@@ -12,8 +12,8 @@
     "v2ray_nodes_my": [],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202606/0618Clashols.yaml",
-      "https://mm.mibei77.com/202606/06.1864bavfy.txt"
+      "https://mm.mibei77.com/202606/06.1864bavfy.txt",
+      "https://mm.mibei77.com/202606/0618Clashols.yaml"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202606/06.1864bavfy.txt"
@@ -22,5 +22,5 @@
       "https://mm.mibei77.com/202606/0618Clashols.yaml"
     ]
   },
-  "crawl_time": "2026-06-18 13:01:34"
+  "crawl_time": "2026-06-18 13:31:27"
 }
