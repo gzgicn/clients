@@ -12,8 +12,8 @@
     "v2ray_nodes_my": [],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202608/08.0664bavfr.txt",
-      "https://mm.mibei77.com/202608/0806Clashikl.yaml"
+      "https://mm.mibei77.com/202608/0806Clashikl.yaml",
+      "https://mm.mibei77.com/202608/08.0664bavfr.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202608/08.0664bavfr.txt"
@@ -22,5 +22,5 @@
       "https://mm.mibei77.com/202608/0806Clashikl.yaml"
     ]
   },
-  "crawl_time": "2026-08-06 10:01:26"
+  "crawl_time": "2026-08-06 13:31:31"
 }
