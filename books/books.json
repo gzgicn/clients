@@ -107,6 +107,22 @@
             "rating": 4.9,
             "tags": ["⽂学类", "基础必读"],
             "status": "available"
+          },
+		  {
+            "id": "978-7-115-33333-3",
+            "title": "《呐喊》",
+            "author": "鲁迅",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/呐喊.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/呐喊.epub",
+            "description": "",
+            "category": "基础必读",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["⽂学类", "基础必读"],
+            "status": "available"
           }
 		]
       }
