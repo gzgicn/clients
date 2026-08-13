@@ -55,7 +55,7 @@
         "books": [
 		 {
             "id": "978-7-115-22222-3",
-            "title": "DeepSeek原理与项目实战  大模型部署、微调与应用开发",
+            "title": "DeepSeek原理与项目实战大模型部署、微调与应用开发",
             "author": "",
             "publisher": "蜡笔小新",
             "publish_date": "2024-01-01",
@@ -67,6 +67,45 @@
             "price": 100.00,
             "rating": 4.9,
             "tags": ["IT", "电子书"],
+            "status": "available"
+          }
+		]
+      },
+	  {
+        "id": 3,
+        "name": "基础必读",
+        "sort": 3,
+        "books": [
+		 {
+            "id": "978-7-115-33333-1",
+            "title": "《诗经选》",
+            "author": "余冠英",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/诗经选.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/诗经选.epub",
+            "description": "",
+            "category": "基础必读",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["⽂学类", "基础必读"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-33333-2",
+            "title": "《红楼梦》",
+            "author": "曹雪芹",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/红楼梦.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/红楼梦.epub",
+            "description": "",
+            "category": "基础必读",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["⽂学类", "基础必读"],
             "status": "available"
           }
 		]
