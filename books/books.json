@@ -47,37 +47,14 @@
             "status": "available"
           }
         ]
-      },
-      {
+      },      
+	  {
         "id": 2,
-        "name": "IT书籍",
+        "name": "基础必读",
         "sort": 2,
         "books": [
 		 {
-            "id": "978-7-115-22222-3",
-            "title": "DeepSeek原理与项目实战大模型部署、微调与应用开发",
-            "author": "",
-            "publisher": "蜡笔小新",
-            "publish_date": "2024-01-01",
-            "isbn": "9787115222221",
-            "cover_image": "https://clients.gzgi.cn/books/upload/images/DeepSeek原理与项目实战大模型部署、微调与应用开发.jpg",
-            "download_url": "https://clients.gzgi.cn/books/upload/DeepSeek原理与项目实战大模型部署、微调与应用开发.azw3",
-            "description": "DeepSeek原理与项目实战  大模型部署、微调与应用开发。",
-            "category": "IT",
-            "price": 100.00,
-            "rating": 4.9,
-            "tags": ["IT", "电子书"],
-            "status": "available"
-          }
-		]
-      },
-	  {
-        "id": 3,
-        "name": "基础必读",
-        "sort": 3,
-        "books": [
-		 {
-            "id": "978-7-115-33333-1",
+            "id": "978-7-115-22222-1",
             "title": "《诗经选》",
             "author": "余冠英",
             "publisher": "蜡笔小新",
@@ -93,7 +70,7 @@
             "status": "available"
           },
 		  {
-            "id": "978-7-115-33333-2",
+            "id": "978-7-115-22222-2",
             "title": "《红楼梦》",
             "author": "曹雪芹",
             "publisher": "蜡笔小新",
@@ -109,7 +86,7 @@
             "status": "available"
           },
 		  {
-            "id": "978-7-115-33333-3",
+            "id": "978-7-115-22222-3",
             "title": "《呐喊》",
             "author": "鲁迅",
             "publisher": "蜡笔小新",
@@ -123,9 +100,195 @@
             "rating": 4.9,
             "tags": ["⽂学类", "基础必读"],
             "status": "available"
+          },
+		  {
+            "id": "978-7-115-22222-4",
+            "title": "《边城》",
+            "author": "沈从⽂",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/边城.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/边城.epub",
+            "description": "",
+            "category": "基础必读",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["⽂学类", "基础必读"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-22222-5",
+            "title": "《平凡的世界》",
+            "author": "路遥",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/平凡的世界.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/平凡的世界.epub",
+            "description": "",
+            "category": "基础必读",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["⽂学类", "基础必读"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-22222-6",
+            "title": "《百年孤独》",
+            "author": "⻢尔克斯",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/百年孤独.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/百年孤独.epub",
+            "description": "",
+            "category": "基础必读",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["⽂学类", "基础必读"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-22222-7",
+            "title": "《哈姆雷特》",
+            "author": "莎⼠⽐亚",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/哈姆雷特.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/哈姆雷特.epub",
+            "description": "",
+            "category": "基础必读",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["⽂学类", "基础必读"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-22222-8",
+            "title": "《⽼⼈与海》",
+            "author": "海明威",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/⽼⼈与海.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/⽼⼈与海.epub",
+            "description": "",
+            "category": "基础必读",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["⽂学类", "基础必读"],
+            "status": "available"
+          }
+		]
+      },
+	  
+	  
+	  {
+        "id": 3,
+        "name": "拓展延伸",
+        "sort": 3,
+        "books": [
+		 {
+            "id": "978-7-115-33333-1",
+            "title": "《世说新语笺注》",
+            "author": "",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/世说新语笺注.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/世说新语笺注.epub",
+            "description": "",
+            "category": "拓展延伸",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["⽂学类", "拓展延伸"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-33333-2",
+            "title": "《⼈间词话》",
+            "author": "",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/⼈间词话.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/⼈间词话.epub",
+            "description": "",
+            "category": "拓展延伸",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["⽂学类", "拓展延伸"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-33333-3",
+            "title": "《三体》",
+            "author": "",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/三体.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/三体.epub",
+            "description": "",
+            "category": "拓展延伸",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["⽂学类", "拓展延伸"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-33333-4",
+            "title": "《魔戒》",
+            "author": "",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/魔戒.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/魔戒.epub",
+            "description": "",
+            "category": "拓展延伸",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["⽂学类", "拓展延伸"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-33333-5",
+            "title": "《局外⼈》",
+            "author": "",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/局外⼈.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/局外⼈.epub",
+            "description": "",
+            "category": "拓展延伸",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["⽂学类", "拓展延伸"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-33333-6",
+            "title": "《⻨⽥⾥的守望者》",
+            "author": "⻢尔克斯",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/⻨⽥⾥的守望者.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/⻨⽥⾥的守望者.epub",
+            "description": "",
+            "category": "拓展延伸",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["⽂学类", "拓展延伸"],
+            "status": "available"
           }
 		]
       }
+	  
     ]
   }
 }
