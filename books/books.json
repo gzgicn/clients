@@ -287,6 +287,166 @@
             "status": "available"
           }
 		]
+      },
+	  
+	  
+	  
+	  {
+        "id": 4,
+        "name": "开卷有益",
+        "sort": 4,
+        "books": [
+		 {
+            "id": "978-7-115-44444-1",
+            "title": "《史记精讲》",
+            "author": "韩兆琦",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/史记精讲.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/史记精讲.epub",
+            "description": "⼀部史记，读懂中国历史的精神内核",
+            "category": "开卷有益",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["历史类", "开卷有益"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-44444-2",
+            "title": "《万古江河》",
+            "author": "许倬云",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/万古江河.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/万古江河.epub",
+            "description": "以宏⼤视⻆讲述中华⽂明的演变历程",
+            "category": "开卷有益",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["历史类", "开卷有益"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-44444-3",
+            "title": "《全球通史》",
+            "author": "斯塔夫⾥阿诺斯",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/全球通史.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/全球通史.epub",
+            "description": "跳出地域，俯瞰⼈类⽂明的兴衰",
+            "category": "开卷有益",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["历史类", "开卷有益"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-44444-4",
+            "title": "《论语译注》",
+            "author": "杨伯峻",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/论语译注.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/论语译注.epub",
+            "description": "⾛进孔⼦的精神世界，感悟处世智慧",
+            "category": "开卷有益",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["哲学类", "开卷有益"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-44444-5",
+            "title": "《苏菲的世界》",
+            "author": "乔斯坦·贾德",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/苏菲的世界.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/苏菲的世界.epub",
+            "description": "⽤故事打开西⽅哲学的神秘⼤⻔",
+            "category": "开卷有益",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["哲学类", "开卷有益"],
+            "status": "available"
+          },
+		  {
+            "id": "978-7-115-44444-6",
+            "title": "《少有⼈⾛的路》",
+            "author": "M.斯科特·派克",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/少有⼈⾛的路.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/少有⼈⾛的路.epub",
+            "description": "直⾯⼼智成熟的艰难旅程",
+            "category": "开卷有益",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["哲学类", "开卷有益"],
+            "status": "available"
+          },
+		  
+		  
+		   {
+            "id": "978-7-115-44444-7",
+            "title": "《万物简史》",
+            "author": "⽐尔·布莱森",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/万物简史.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/万物简史.epub",
+            "description": "轻松了解科学发现背后的趣味故事",
+            "category": "开卷有益",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["科学类", "开卷有益"],
+            "status": "available"
+          },
+		  
+		  
+		   {
+            "id": "978-7-115-44444-8",
+            "title": "《从⼀到⽆穷⼤》",
+            "author": "G.伽莫夫",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/从⼀到⽆穷⼤.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/从⼀到⽆穷⼤.epub",
+            "description": "⼀场妙趣横⽣的科学知识探索之旅",
+            "category": "开卷有益",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["科学类", "开卷有益"],
+            "status": "available"
+          },
+		  
+		   {
+            "id": "978-7-115-44444-9",
+            "title": "《细胞⽣命的礼赞》",
+            "author": "刘易斯·托⻢斯",
+            "publisher": "蜡笔小新",
+            "publish_date": "2024-01-01",
+            "isbn": "9787115222221",
+            "cover_image": "https://clients.gzgi.cn/books/upload/images/细胞⽣命的礼赞.jpg",
+            "download_url": "https://clients.gzgi.cn/books/upload/细胞⽣命的礼赞.epub",
+            "description": "以诗意眼光看待⽣命与⾃然",
+            "category": "开卷有益",
+            "price": 100.00,
+            "rating": 4.9,
+            "tags": ["科学类", "开卷有益"],
+            "status": "available"
+          }
+		  
+		]
       }
 	  
     ]
