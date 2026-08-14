@@ -1,7 +1,7 @@
 {
   "code": 200,
   "message": "success",
-  "apptitle":"高中电子书城",
+  "apptitle":"高中电子书",
   "data": {
     "pagination": {
       "total": 2,
